@@ -9,14 +9,6 @@ Repositório Criado para o desafio de projeto.
 
 
 
-
-
-
-
-
-
-
-
 # Anotacões :notebook:
 
 _Aulas_
@@ -24,6 +16,10 @@ _Aulas_
 - Introdução à Programação e Pensamento Computacional
 
 - Git/Github
+
+- Introdução a criação de websites com HTML5 e CSS3
+
+  
 
 
 
